@@ -1,4 +1,11 @@
 # AI-Powered Smart Vehicle Access and License Plate Recognition System for Campus Security
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV-green)
+![OCR](https://img.shields.io/badge/OCR-EasyOCR-orange)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-red)
+![Status](https://img.shields.io/badge/Project-Real--World%20Deployment-success)
+![Platform](https://img.shields.io/badge/Platform-Campus%20Security-purple)
+
 
 ## Project Overview
 
