@@ -30,7 +30,16 @@ The system integrates several technologies from the fields of **Artificial Intel
 * **IP Camera / Webcam Integration** – Real-time vehicle image capture
 
 ---
+## Project Features
 
+* Automatic vehicle detection using a camera
+* License plate detection using computer vision techniques
+* Character recognition using Optical Character Recognition (OCR)
+* Verification of detected license plates with an authorized vehicle database
+* Automated access control based on verification results
+* Unauthorized vehicle detection and alert generation
+* Logging of vehicle entry information for monitoring and security
+---
 ## Applications
 
 This system can be applied in various real-world scenarios, including:
@@ -42,7 +51,54 @@ This system can be applied in various real-world scenarios, including:
 * **Smart City Surveillance and Security Infrastructure**
 
 ---
+## Project Structure
 
+```
+AI-Powered-Smart-Vehicle-Access-and-License-Plate-Recognition-System
+│
+├── dataset
+│   └── registered_vehicles.csv
+│
+├── docs
+│   └── system_workflow.png
+│
+├── results
+│   └── example_outputs
+│
+├── src
+│   └── license_plate_recognition.py
+│
+└── README.md
+```
+## How to Run the Project
+
+1. Clone the repository
+
+```
+git clone https://github.com/Manojrampur8/AI-Powered-Smart-Vehicle-Access-and-License-Plate-Recognition-System.git
+```
+
+2. Navigate to the project directory
+
+```
+cd AI-Powered-Smart-Vehicle-Access-and-License-Plate-Recognition-System
+```
+
+3. Install required libraries
+
+```
+pip install opencv-python numpy easyocr
+```
+
+4. Run the license plate recognition script
+
+```
+python src/license_plate_recognition.py
+```
+
+The system will start detecting license plates and verifying them with the authorized vehicle database.
+
+---
 ## Author
 
 **Manoj S**
