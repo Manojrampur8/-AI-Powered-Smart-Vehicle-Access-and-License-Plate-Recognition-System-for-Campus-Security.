@@ -6,6 +6,8 @@
 ![Status](https://img.shields.io/badge/Project-Real--World%20Deployment-success)
 ![Platform](https://img.shields.io/badge/Platform-Campus%20Security-purple)
 
+🚀 **Real-Time Deployment:**  
+This system has been **selected for real-time deployment at Jain Institute of Technology Engineering College, Davanagere, Karnataka, India** to enhance campus vehicle access security.
 
 ## Project Overview
 
