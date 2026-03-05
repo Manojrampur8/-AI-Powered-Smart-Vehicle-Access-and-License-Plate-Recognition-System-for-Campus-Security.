@@ -94,25 +94,24 @@ This system can be implemented in multiple real-world environments:
 AI-Powered-Smart-Vehicle-Access-and-License-Plate-Recognition-System
 │
 ├── dataset
-│ └── registered_vehicles.csv
+│   └── registered_vehicles.csv
 │
 ├── docs
-│ └── system_workflow.png
+│   └── system_workflow.png
 │
 ├── results
-│ ├── webcam_detection.png
-│ ├── ocr_detection_output.png
-│ ├── vehicle_verified_lcd.png
-│ ├── access_denied_lcd.png
-│ ├── green_led_access.png
-│ ├── red_led_alert.png
-│ └── vehicle_log_entries.png
+│   ├── webcam_detection.png
+│   ├── ocr_detection_output.png
+│   ├── vehicle_verified_lcd.png
+│   ├── access_denied_lcd.png
+│   ├── green_led_access.png
+│   ├── red_led_alert.png
+│   └── vehicle_log_entries.png
 │
 ├── src
-│ └── license_plate_recognition.py
+│   └── license_plate_recognition.py
 │
 └── README.md
----
 
 ---
 
