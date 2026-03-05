@@ -30,6 +30,31 @@ The system integrates several technologies from the fields of **Artificial Intel
 * **IP Camera / Webcam Integration** – Real-time vehicle image capture
 
 ---
+## System Outputs
+
+### Real-Time License Plate Detection
+![Detection](results/webcam_detection.png)
+
+### OCR Recognized License Plate
+![OCR](results/ocr_detection_output.png)
+
+### Registered Vehicle Verification
+![Verified](results/vehicle_verified_lcd.png)
+
+### Unauthorized Vehicle Alert
+![Denied](results/access_denied_lcd.png)
+
+### Access Granted Indicator
+![Green LED](results/green_led_access.png)
+
+### Security Alert System
+![Red LED](results/red_led_alert.png)
+
+### Vehicle Entry Log
+![Log](results/vehicle_log_entries.png)
+
+---
+
 ## Project Features
 
 * Automatic vehicle detection using a camera
