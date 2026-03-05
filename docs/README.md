@@ -61,28 +61,28 @@ This system integrates technologies from **Artificial Intelligence, Computer Vis
 
 ---
 
-## System Outputs
+ ## System Outputs
 
 ### Real-Time License Plate Detection
-![Detection](results/webcam_detection.png)
+![Detection](webcam_detection.png)
 
 ### OCR Recognized License Plate
-![OCR](results/ocr_detection_output.png)
+![OCR](ocr_detection_output.png)
 
 ### Registered Vehicle Verification
-![Verified](results/vehicle_verified_lcd.png)
+![Verified](vehicle_verified_lcd.png)
 
 ### Unauthorized Vehicle Alert
-![Denied](results/access_denied_lcd.png)
+![Denied](access_denied_lcd.png)
 
 ### Access Granted Indicator (Green LED)
-![Green LED](results/green_led_access.png)
+![Green LED](green_led_access.png)
 
 ### Security Alert System (Red LED + Buzzer)
-![Red LED](results/red_led_alert.png)
+![Red LED](red_led_alert.png)
 
 ### Vehicle Entry Log (Excel Record)
-![Log](results/vehicle_log_entries.png)
+![Log](vehicle_log_entries.png)
 
 ---
 
