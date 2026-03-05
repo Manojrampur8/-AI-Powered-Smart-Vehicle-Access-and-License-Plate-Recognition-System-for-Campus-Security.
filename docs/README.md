@@ -2,17 +2,17 @@
 
 ## Project Overview
 
-This project presents an **AI-powered vehicle access control system** that uses **license plate recognition technology** to automate vehicle entry management in secure environments such as university campuses.
+This project implements an **AI-driven smart vehicle access control system** designed to enhance security in controlled environments such as university campuses, residential communities, and restricted facilities.
 
-The system captures vehicle images using a camera, detects the license plate, and extracts the plate number using **Optical Character Recognition (OCR)**. The extracted license plate number is then compared with a **registered vehicle database** to determine whether the vehicle is authorized.
+The system automatically captures vehicle images using a camera, detects the license plate using **computer vision techniques**, and extracts the license plate number through **Optical Character Recognition (OCR)**. The recognized license plate is then verified against a **database of authorized vehicles**.
 
-Based on the verification result, the system automatically **grants or denies access**, helping improve **campus security, automation, and monitoring of vehicle movement**.
+Based on the verification outcome, the system intelligently determines whether to **grant or deny access**. Authorized vehicles are allowed entry, while unauthorized vehicles trigger alerts and access restrictions. This automated process helps improve **security monitoring, access management, and operational efficiency**.
 
 ---
 
 ## System Workflow
 
-The following diagram illustrates the workflow of the **AI-Powered Smart Vehicle Access and License Plate Recognition System**.
+The following diagram illustrates the working process of the **AI-Powered Smart Vehicle Access and License Plate Recognition System**.
 
 ![System Workflow](docs/system_workflow.png)
 
@@ -20,22 +20,26 @@ The following diagram illustrates the workflow of the **AI-Powered Smart Vehicle
 
 ## Technologies Used
 
-* Python
-* OpenCV (Computer Vision)
-* NumPy
-* EasyOCR / Optical Character Recognition (OCR)
-* Machine Learning Techniques
-* IP Camera / Webcam Integration
+The system integrates several technologies from the fields of **Artificial Intelligence, Computer Vision, and Automation**:
+
+* **Python** – Core programming language used for system development
+* **OpenCV** – Image processing and license plate detection
+* **NumPy** – Efficient numerical computations and data processing
+* **EasyOCR / OCR** – Optical Character Recognition for extracting license plate numbers
+* **Machine Learning Techniques** – Supporting intelligent detection and recognition tasks
+* **IP Camera / Webcam Integration** – Real-time vehicle image capture
 
 ---
 
 ## Applications
 
-* University and College Campus Security Systems
-* Smart Parking Management Systems
-* Automated Toll Gate Systems
-* Restricted Area Vehicle Access Control
-* Smart City Security Infrastructure
+This system can be applied in various real-world scenarios, including:
+
+* **University and College Campus Security**
+* **Smart Parking Management Systems**
+* **Automated Toll Gate Systems**
+* **Restricted Area Vehicle Access Control**
+* **Smart City Surveillance and Security Infrastructure**
 
 ---
 
